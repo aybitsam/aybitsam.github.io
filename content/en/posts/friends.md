@@ -1,6 +1,6 @@
 ---
-title: "we are alive (aybitsam)!"
-date: "2026-06-20"
+title: "veganism and farming"
+date: "05-09-2026"
 tags: ["alive"]
 title-images: 
 ending-images: 
@@ -8,7 +8,8 @@ author: "Lozza & Abs"
 draft: false
 ---
 <!-- introduction -->
-We are learning things and talking about them more
+A conversation we had
 <!--more-->
 <!-- rest of the content -->
-It is fun!
+Notes coming out soon!
+{{< youtube 2DEV97humuA >}}
