@@ -1,6 +1,6 @@
 ---
 title: "veganism and farming"
-date: "05-09-2026"
+date: "2026-09-05"
 tags: ["alive"]
 title-images: 
 ending-images: 
