@@ -2,7 +2,7 @@
 title: "veganism and farming"
 date: "2026-09-05"
 tags: ["alive"]
-title-images: 
+title-images: veganismandfarmingfp.jpg
 ending-images: 
 author: "Lozza & Abs"
 draft: false
